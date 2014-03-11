@@ -14,7 +14,7 @@
 	NSData *data;
 	int index;
 	CGImageSourceRef source;
-	size_t count;
+	size_t count;       //不明白size_t是什么意思。
 	CGSize size;
 }
 
